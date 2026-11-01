@@ -5,3 +5,5 @@
 ## 自动交付验收
 
 本次修改由 Superagent 自动交付。
+
+复验标记：DSH-E2E-3-PASS
